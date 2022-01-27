@@ -5,18 +5,24 @@
 - Tədrisi başa vurduğum tarix : 
 - Tədris müddətində hədəflədiyim layihə şablon(ları) :[http://zoyothemes.com/queue/layout/index.html#home]()
 
-###  Tədris müddətində gördüyüm işlər
-- İş adı 01
-    - [Kodlar]()
-    - işdə istifadə olunan texnologiyalar 
-    - İşin bitmə müddəti
-- İş adı 02
-    - [Kodlar]()
-    - işdə istifadə olunan texnologiyalar 
-    - İşin bitmə müddəti
+### Project
+-Görüləcək işlər
+-linkdə qeyd olunan veb-saytı yaratmaq ( http://zoyothemes.com/queue/layout/index.html#home )
+-Görülmüş işlər
+-Hər gün Project faylı yenilənir 
 
-### Tədris müddətində yazdığım məqalələr
-- [Məqalə adı]()
-- [Məqalə adı]()
+
+###  Day03 [7 Yanvar 2022]
+-Görüləcək işlər
+-'FirstCSSTry' adlı folder yaradın.Bu həftəsonu edəcəyiniz tapşırıqları bu folderə yerləşdirin.
+-Görülmüş işlər
+-'FirstCSSTry' adlı folder yaradıldı və Works qovluğuna əlavə edildi
+
+
+###  Day04 [10 Yanvar 2022]
+-Görüləcək işlər:
+-Flex Froggy bu oyunu tamamlayın.
+-Görülmüş işlər
+- Oyun tamamland: https://flexboxfroggy.com/#tr
 
 # PragmatechFoundationProject-Aslanov
