@@ -7,7 +7,7 @@
 
 ### Project
 -   Görüləcək işlər
--   linkdə qeyd olunan veb-saytı yaratmaq ( http://zoyothemes.com/queue/layout/index.html#home )
+-   linkdə qeyd olunan veb-saytı yaratmaq ( [http://zoyothemes.com/queue/layout/index.html#home] )
 -   Görülmüş işlər
 -   Hər gün Project faylı yenilənir 
 
@@ -23,18 +23,18 @@
 -   Görüləcək işlər:
 -   Flex Froggy bu oyunu tamamlayın.
 -   Görülmüş işlər
--   Oyun tamamland: https://flexboxfroggy.com/#tr
+-   Oyun tamamland: ( [https://flexboxfroggy.com/#tr] )
 
 ### Day05 [11 Yanvar 2022]
 -   Görüləcək işlər:
--   linkdə verilən görüntünü hazırlayın https://startbootstrap.com/previews/sb-admin-pro-angular   
+-   linkdə verilən görüntünü hazırlayın ( [https://startbootstrap.com/previews/sb-admin-pro-angular] )  
     *Yazdığınız kodları 'CSSFlexBox' adli folderə yerləşdirin
     *Dərsdə olduğu kimi Lightshot proqramı istifadə edərək eksiz hazırlayın (Eksiz faylını bir yerdə saxlayın)
     *Eksizə əsasən HTML strukturunu və adlandırmasını edin
     *Uyğun formatda CSS strukturunu hazırlayın
     *Ən böyük elementdən başlayaraq CSS tətbiqi edin
 -   Görülmüş işlər
--   Linkdə verilən görüntünü  Lightshot proqramı istifadə edərək eksiz hazırladım (https://prnt.sc/26k7dyq)
+-   Linkdə verilən görüntünü  Lightshot proqramı istifadə edərək eksiz hazırladım ([https://prnt.sc/26k7dyq])
 -   HTML və CSS strukturuna esasen hazırdaım və eksizi əlavə etdim.
 
 # PragmatechFoundationProject-Aslanov
