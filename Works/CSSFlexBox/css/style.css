@@ -31,7 +31,7 @@
 .box-icon-down{
     padding: 25px 0px;
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
 }
 .box-1{
     border: 3px solid rgb(9, 5, 226);
