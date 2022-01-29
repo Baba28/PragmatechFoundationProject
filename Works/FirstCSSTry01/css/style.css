@@ -1,0 +1,24 @@
+.big-box{
+    border: 1px solid red;
+    width: 1320px;
+    height: 550px;
+   
+    display: inline-block;
+}
+.box{
+    border: 1px solid black;
+    width: 393px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+.box img{
+    width: 393px;
+    height: 300px;
+    object-fit: cover;
+}
+.box button{
+    width: 100px;
+    margin: 10px;
+    background: rgb(136, 136, 238);
+}
