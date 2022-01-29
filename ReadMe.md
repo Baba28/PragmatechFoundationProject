@@ -37,8 +37,3 @@
 -   Linkdə verilən görüntünü  Lightshot proqramı istifadə edərək eksiz hazırladım ([https://prnt.sc/26k7dyq])
 -   HTML və CSS strukturuna esasen hazırdaım və eksizi əlavə etdim.
 
-
-
-### day 07
-
-# PragmatechFoundationProject-Aslanov
