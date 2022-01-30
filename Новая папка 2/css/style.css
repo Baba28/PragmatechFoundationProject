@@ -78,9 +78,59 @@ body{
     width: 1200px;
     margin: 0 auto;
     background-color: white;
+    
 }
 
 .container-personal{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    
+}
+.personal-inform{
+    padding-left: 70px;
+}
+
+
+/* Section Awesome Service details */
+
+#Awesome-Service{
+    padding: 70px 0px;
+    background-color: #ffffff;
+    font-family:"Nunito", sans-serif;
+}
+
+.service-container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.service-heading{
+    text-align: center;
+}
+.service-heading h1{
+    font-size: 1.5em;
+    font-weight: 500px;
+    margin-bottom: 20px;
+}
+.service-heading p{
+    font-size: .9em;
+    padding: 0px 15%;
+}
+
+.service-items{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.service-item{
+    height: 300px;
+    background-color:rgb(241, 240, 240);
+    padding: 30px 45px;
+    border-radius: 20px;
+    
+}
+.service-item a{
+   color: #007bff !important;
+}
+.service-item i{
+    font-style: normal;
 }
