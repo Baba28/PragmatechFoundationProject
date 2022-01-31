@@ -219,3 +219,31 @@ body{
     border: 1px dashed #ddd;
 
 }
+
+
+/* Information Section detail */
+
+#information{
+    padding: 70px 0px;
+}
+.information-row{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.t-1{
+    border: 1px solid black;
+    padding: 30px;
+}
+.t-2{
+    border: 1px solid black;
+    padding: 30px;
+}
+.t-3{
+    border: 1px solid black;
+    padding: 30px;
+}
+.t-4{
+    border: 1px solid black;
+    padding: 30px;
+}
