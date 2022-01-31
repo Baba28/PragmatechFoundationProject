@@ -133,4 +133,89 @@ body{
 }
 .service-item i{
     font-style: normal;
+   color:  #007bff !important;
+}
+
+
+/* Work Participation Section  details */
+
+#Work{
+    padding: 70px 0px;
+    background-color: #ffffff;
+    font-family:"Nunito", sans-serif;
+
+}
+.work-container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.work-main-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.work-box1{
+    padding: 50% 0px;
+}
+.work-box1 h2{
+    text-transform: capitalize!important;
+    font-family: "Nunito", sans-serif;
+    line-height: 2.5;
+    font-weight: 700;
+}
+.work-box1 button{
+    border-radius: 10px !important;
+    display: flex;
+    background: #007bff;
+    
+}
+.work-box1 a{
+    color: white;
+    font-weight: 600;
+}
+
+
+.work-box2{
+    
+}
+
+.ux{
+    color: #161c2d;
+    background: #ffffff;
+    padding: 15px 20px 15px 150px;
+    margin: 0 0 60px;
+    border-radius: 100px 0px 0px;
+    display: block;
+    position: relative;
+    border: 1px dashed #ddd;
+}
+.work-box2 h2,span{
+    display: inline-block;
+}
+.work-box2 span{
+    background-color:rgba(0, 123, 254, 0.08);;
+    color: #007bff !important;
+    padding-left: 70px;
+}
+.web{
+    color: #161c2d;
+    background: #ffffff;
+    padding: 15px 20px 15px 150px;
+    margin: 0 0 60px;
+    border-radius: 100px 0px 0px;
+    display: block;
+    position: relative;
+    border: 1px dashed #ddd;
+
+}
+.graphic{
+    color: #161c2d;
+    background: #ffffff;
+    padding: 15px 20px 15px 150px;
+    margin: 0 0 60px;
+    border-radius: 100px 0px 0px;
+    display: block;
+    position: relative;
+    border: 1px dashed #ddd;
+
 }
