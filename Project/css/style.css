@@ -247,3 +247,62 @@ body{
     border: 1px solid black;
     padding: 30px;
 }
+
+
+
+/* Work Expertise details */
+
+#Work-Expert{
+    padding: 70px 0px;
+}
+.work-expert-container{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.work-expert-mainbox{
+    display: flex;
+    justify-content: space-between;
+}
+.work-expert-info{
+    text-align: center;
+    
+}
+.work-expert-row{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+.work-1 img{
+   width: 35px;
+    
+}
+.work-1 {
+    border: 1px solid black;
+    padding-top: 0.5rem!important;
+    border-radius: 800px;
+    width: 80px !important;
+    
+}
+.work-1 img{
+    padding: 0.35em 0.65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    
+}
+/* .work-1 h6{
+    cursor: pointer;
+    width: 36px;
+    height: 18px;
+    position: absolute;
+    right: 15%;
+    top: 29%;
+   
+} */
